@@ -1,0 +1,12 @@
+componente;valor
+Itens com distorção na amostra (não-chave);1
+Precisão básica (RF x intervalo);119887482.34576952
+Distorção projetada;39962494.11525651
+Incremento por erros (Stringer);29971870.58644238
+Distorção em itens-chave;0.0
+Limite superior de distorção (LSD);189821847.04746842
+Materialidade de execução;119920050.0
+Conclusão;LSD > ME: não aceitar sem procedimentos adicionais
+Erros da amostra não cobertos pelas correções dos testes 100%;0
+LSD reavaliado após correção das exceções (cenário simulado);119887482.34576952
+Conclusão após correção;LSD <= ME: aceitar

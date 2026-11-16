@@ -1,0 +1,308 @@
+id_registro;tipo_erro;descricao;campo;valor_original;valor_inserido;vcl_correto;vcl_na_base;efeito_superavaliacao_vcl
+REG0640591;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0493773;0,0;45103,17;45103,17
+REG0640592;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0462993;0,0;99027,85;99027,85
+REG0640593;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0526993;0,0;60081,94;60081,94
+REG0640594;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0245906;0,0;139637,77;139637,77
+REG0640595;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0215975;0,0;62738,2;62738,2
+REG0640596;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0016467;0,0;153092,69;153092,69
+REG0640597;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0618392;0,0;100862,21;100862,21
+REG0640598;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0083263;0,0;133213,43;133213,43
+REG0640599;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0593264;0,0;141674,48;141674,48
+REG0640600;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0267099;0,0;52729,94;52729,94
+REG0640601;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0197194;0,0;110865,5;110865,5
+REG0640602;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0543153;0,0;67903,03;67903,03
+REG0640603;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0617672;0,0;76651,93;76651,93
+REG0640604;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0104809;0,0;124044,39;124044,39
+REG0640605;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0187849;0,0;100861,2;100861,2
+REG0640606;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0147404;0,0;89392,9;89392,9
+REG0640607;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0345396;0,0;161452,0;161452,0
+REG0640608;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0620729;0,0;83967,54;83967,54
+REG0640609;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0555372;0,0;55957,62;55957,62
+REG0640610;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0405174;0,0;70519,24;70519,24
+REG0640611;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0446393;0,0;100205,08;100205,08
+REG0640612;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0119724;0,0;61129,74;61129,74
+REG0640613;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0204825;0,0;49441,14;49441,14
+REG0640614;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0191291;0,0;63164,49;63164,49
+REG0640615;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0197538;0,0;151929,07;151929,07
+REG0640616;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0620722;0,0;75767,64;75767,64
+REG0640617;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0345320;0,0;96689,29;96689,29
+REG0640618;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0317200;0,0;103017,81;103017,81
+REG0640619;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0303740;0,0;56488,65;56488,65
+REG0640620;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0173968;0,0;104326,68;104326,68
+REG0640621;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0084031;0,0;95093,19;95093,19
+REG0640622;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0183652;0,0;259526,6;259526,6
+REG0640623;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0555289;0,0;112206,79;112206,79
+REG0640624;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0334837;0,0;92214,15;92214,15
+REG0640625;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0078369;0,0;108367,03;108367,03
+REG0640626;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0481486;0,0;45221,65;45221,65
+REG0640627;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0295006;0,0;47212,83;47212,83
+REG0640628;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0157886;0,0;60737,62;60737,62
+REG0640629;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0452955;0,0;60085,79;60085,79
+REG0640630;E01;Registro duplicado (mesmo chassi);registro inteiro;;REG0323799;0,0;102995,68;102995,68
+REG0640631;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-05;0,0;84470,08;84470,08
+REG0640632;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-05;0,0;65335,66;65335,66
+REG0640633;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-18;0,0;79441,56;79441,56
+REG0640634;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-09;0,0;59878,79;59878,79
+REG0640635;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-11;0,0;94729,96;94729,96
+REG0640636;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-12;0,0;73456,34;73456,34
+REG0640637;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-05;0,0;76310,28;76310,28
+REG0640638;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-18;0,0;82612,59;82612,59
+REG0640639;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-25;0,0;53897,35;53897,35
+REG0640640;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-28;0,0;57922,27;57922,27
+REG0640641;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-05;0,0;149713,89;149713,89
+REG0640642;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-16;0,0;102893,1;102893,1
+REG0640643;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-23;0,0;79508,25;79508,25
+REG0640644;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-27;0,0;60627,91;60627,91
+REG0640645;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-26;0,0;94914,27;94914,27
+REG0640646;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-25;0,0;62724,36;62724,36
+REG0640647;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-04;0,0;75225,97;75225,97
+REG0640648;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-19;0,0;78624,23;78624,23
+REG0640649;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-22;0,0;104611,89;104611,89
+REG0640650;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-08;0,0;161841,06;161841,06
+REG0640651;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-22;0,0;108926,91;108926,91
+REG0640652;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-07;0,0;59610,84;59610,84
+REG0640653;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-22;0,0;127201,6;127201,6
+REG0640654;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-17;0,0;67756,75;67756,75
+REG0640655;E02;Aquisição posterior à data-base (corte);data_aquisicao;;2026-01-16;0,0;56958,18;56958,18
+REG0311591;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;14139.87;7069.94;70237,07;77307,0;7069,93
+REG0107406;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7923.13;3961.56;61051,55;65013,12;3961,57
+REG0253111;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;4331.36;2165.68;43263,72;45429,4;2165,68
+REG0042253;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;32921.22;16460.61;78944,67;95405,28;16460,61
+REG0076570;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;2989.31;1494.66;52132,02;53626,67;1494,65
+REG0390754;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;10418.52;5209.26;106256,26;111465,52;5209,26
+REG0354293;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;12690.86;6345.43;84987,61;91333,04;6345,43
+REG0350792;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7450.03;3725.02;71167,0;74892,01;3725,01
+REG0384516;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6294.84;3147.42;115904,23;119051,65;3147,42
+REG0617817;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;11219.32;5609.66;88163,91;93773,57;5609,66
+REG0489083;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7953.84;3976.92;45744,77;49721,69;3976,92
+REG0044349;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;24420.47;12210.24;41547,81;53758,04;12210,23
+REG0616273;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;14798.93;7399.46;157746,08;165145,55;7399,47
+REG0626078;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7335.33;3667.66;62561,75;66229,42;3667,67
+REG0451838;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;4010.41;2005.2;57000,56;59005,77;2005,21
+REG0084011;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;36206.71;18103.36;72634,13;90737,48;18103,35
+REG0287342;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;5917.11;2958.56;57345,32;60303,87;2958,55
+REG0345579;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;18925.66;9462.83;47022,68;56485,51;9462,83
+REG0277079;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;12681.93;6340.96;177954,37;184295,34;6340,97
+REG0423300;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6603.0;3301.5;97981,29;101282,79;3301,5
+REG0204259;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;14318.5;7159.25;204624,12;211783,37;7159,25
+REG0045936;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6964.56;3482.28;47765,51;51247,79;3482,28
+REG0060499;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;5606.78;2803.39;60255,08;63058,47;2803,39
+REG0021912;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;12664.07;6332.04;98921,97;105254,0;6332,03
+REG0193128;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6180.19;3090.1;53889,82;56979,91;3090,09
+REG0502771;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;22808.88;11404.44;148185,39;159589,83;11404,44
+REG0086628;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;9978.34;4989.17;48448,16;53437,33;4989,17
+REG0080368;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;3742.08;1871.04;74909,7;76780,74;1871,04
+REG0398208;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;9978.87;4989.44;55832,89;60822,32;4989,43
+REG0070324;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;14908.85;7454.42;56537,82;63992,25;7454,43
+REG0544634;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7891.1;3945.55;71362,57;75308,12;3945,55
+REG0022841;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;9470.28;4735.14;52240,28;56975,42;4735,14
+REG0156287;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;4730.13;2365.06;69111,61;71476,68;2365,07
+REG0352203;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;14079.46;7039.73;49388,69;56428,42;7039,73
+REG0043570;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;19711.03;9855.52;59740,83;69596,34;9855,51
+REG0574885;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;32157.21;16078.6;103692,0;119770,61;16078,61
+REG0450381;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6118.52;3059.26;84603,85;87663,11;3059,26
+REG0628201;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;9718.18;4859.09;63470,63;68329,72;4859,09
+REG0532724;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;8623.09;4311.54;90490,12;94801,67;4311,55
+REG0468207;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6771.21;3385.6;78044,93;81430,54;3385,61
+REG0561701;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;13466.71;6733.36;81251,41;87984,76;6733,35
+REG0120478;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6066.82;3033.41;45000,3;48033,71;3033,41
+REG0387393;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;8745.74;4372.87;57492,48;61865,35;4372,87
+REG0250644;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;7785.86;3892.93;95687,02;99579,95;3892,93
+REG0539903;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;42723.06;21361.53;97391,8;118753,33;21361,53
+REG0380764;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6985.14;3492.57;55451,61;58944,18;3492,57
+REG0490529;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;10143.53;5071.77;67626,02;72697,78;5071,76
+REG0226546;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;5360.45;2680.22;48907,89;51588,12;2680,23
+REG0132120;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;9157.56;4578.78;67924,45;72503,23;4578,78
+REG0489804;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;4311.47;2155.74;63979,14;66134,87;2155,73
+REG0621223;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;17705.6;8852.8;56238,45;65091,25;8852,8
+REG0316368;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;6162.44;3081.22;64531,28;67612,5;3081,22
+REG0211663;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;10123.08;5061.54;72709,67;77771,21;5061,54
+REG0089240;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;30069.62;15034.81;100067,01;115101,82;15034,81
+REG0057709;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;8456.89;4228.44;107898,87;112127,32;4228,45
+REG0395909;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;16513.24;8256.62;40624,65;48881,27;8256,62
+REG0191792;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;4614.32;2307.16;50344,85;52652,01;2307,16
+REG0063108;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;12027.67;6013.84;77981,04;83994,87;6013,83
+REG0149037;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;17446.69;8723.34;74339,88;83063,23;8723,35
+REG0220185;E03;Depreciação acumulada calculada a menor;depreciacao_acumulada;3914.46;1957.23;57486,26;59443,49;1957,23
+REG0317109;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;49985.83;66738.08;57366,26;61794,52;4428,26
+REG0181083;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;42956.51;69970.89;47807,92;64787,86;16979,94
+REG0601258;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;32078.49;71627.89;57761,21;66322,12;8560,91
+REG0378129;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;42192.53;69136.71;56013,73;64015,47;8001,74
+REG0492959;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;50281.41;82520.18;60078,72;76407,57;16328,85
+REG0415120;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;59479.33;82116.35;70515,55;76033,66;5518,11
+REG0409188;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;78299.57;108979.99;92617,86;100907,4;8289,54
+REG0346288;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;52566.21;105422.74;71335,98;97613,65;26277,67
+REG0451338;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;100403.54;219759.16;160531,88;203480,7;42948,82
+REG0230099;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;76403.14;153929.28;118649,01;142527,11;23878,1
+REG0553847;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;91801.21;127210.44;110208,12;117787,44;7579,32
+REG0639043;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;79694.99;128400.63;110179,59;118889,47;8709,88
+REG0608811;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;100418.4;214364.69;178055,11;198485,82;20430,71
+REG0460039;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;55806.25;100991.4;83037,14;93510,56;10473,42
+REG0527107;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;43628.94;57493.16;50032,59;53234,41;3201,82
+REG0362202;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;72187.95;115032.9;80768,95;106511,94;25742,99
+REG0381679;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;71025.61;112363.96;87533,16;104040,7;16507,54
+REG0442428;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;40849.38;66245.45;56785,27;61338,38;4553,11
+REG0054508;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;63121.47;108416.43;88740,55;100385,58;11645,03
+REG0080656;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;113146.72;155480.56;135403,27;143963,48;8560,21
+REG0630895;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;62591.03;131167.51;106736,31;121451,4;14715,09
+REG0181451;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;118150.7;192744.69;168414,54;178467,31;10052,77
+REG0494805;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;28211.15;58324.08;50242,35;54003,78;3761,43
+REG0502834;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;49645.94;107065.54;63392,83;99134,76;35741,93
+REG0609097;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;36415.8;63070.17;52292,06;58398,31;6106,25
+REG0435747;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;45728.87;63743.48;54147,69;59021,74;4874,05
+REG0058196;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;45140.91;64316.46;48343,44;59552,28;11208,84
+REG0224252;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;94410.55;159057.69;121944,45;147275,64;25331,19
+REG0493566;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;39273.05;63981.0;47593,31;59241,67;11648,36
+REG0535309;E04;"Valor residual maior que o custo; depreciação zerada";valor_residual;66277.32;114736.4;97912,39;106237,41;8325,02
+REG0210000;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;50881,57;50881,57
+REG0442352;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;81884,07;81884,07
+REG0594226;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;53251,28;53251,28
+REG0131652;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;59956,04;59956,04
+REG0482930;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;69431,51;69431,51
+REG0506393;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;47406,87;47406,87
+REG0049560;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;101801,02;101801,02
+REG0324733;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;110586,01;110586,01
+REG0264267;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;135415,37;135415,37
+REG0200374;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;103942,61;103942,61
+REG0533178;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;82698,62;82698,62
+REG0235857;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;66631,74;66631,74
+REG0585318;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;58746,36;58746,36
+REG0144222;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;65669,33;65669,33
+REG0334713;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;100966,65;100966,65
+REG0462934;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;96712,63;96712,63
+REG0032717;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;85409,39;85409,39
+REG0639470;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;54218,92;54218,92
+REG0202963;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;63457,8;63457,8
+REG0215040;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;62252,23;62252,23
+REG0372829;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;50299,51;50299,51
+REG0391901;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;55926,92;55926,92
+REG0303032;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;66674,51;66674,51
+REG0568429;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;98607,59;98607,59
+REG0606771;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;90313,87;90313,87
+REG0255392;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;150686,43;150686,43
+REG0351599;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;118120,11;118120,11
+REG0002093;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;90645,32;90645,32
+REG0323125;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;45611,3;45611,3
+REG0438322;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;53832,8;53832,8
+REG0175625;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;69848,71;69848,71
+REG0320349;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;61331,98;61331,98
+REG0226080;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;56629,98;56629,98
+REG0078162;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;48205,4;48205,4
+REG0215827;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;76954,28;76954,28
+REG0639081;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;75504,16;75504,16
+REG0229007;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;65581,91;65581,91
+REG0325009;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;83149,89;83149,89
+REG0250245;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;134793,92;134793,92
+REG0026514;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;129313,33;129313,33
+REG0247286;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;61016,85;61016,85
+REG0345058;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;DISPONIVEL;VENDIDO;0,0;118195,7;118195,7
+REG0044418;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;71465,14;71465,14
+REG0576680;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;70319,42;70319,42
+REG0061321;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;109952,31;109952,31
+REG0212160;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;114421,46;114421,46
+REG0095017;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;48204,5;48204,5
+REG0014336;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;69431,61;69431,61
+REG0439633;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;MANUTENCAO;VENDIDO;0,0;117766,28;117766,28
+REG0471307;E05;Veículo vendido sem baixa contábil;status_operacional/data_baixa;ALUGADO;VENDIDO;0,0;83424,01;83424,01
+REG0528146;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;69970,08;75772,76;5802,68
+REG0625783;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;136306,83;142905,06;6598,23
+REG0065964;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;80463,02;85013,68;4550,66
+REG0350730;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;24;60;52473,07;55399,58;2926,51
+REG0089388;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;51396,55;54632,31;3235,76
+REG0511617;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;66600,75;68384,26;1783,51
+REG0042661;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;24;60;96465,12;100853,66;4388,54
+REG0021457;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;12;60;125512,95;142817,82;17304,87
+REG0443261;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;52879,71;56665,74;3786,03
+REG0479103;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;89143,61;94332,71;5189,1
+REG0265926;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;24;60;48453,27;51223,19;2769,92
+REG0502575;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;48333,27;49947,45;1614,18
+REG0220618;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;24;60;136584,44;146710,99;10126,55
+REG0132840;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;81679,86;87044,03;5364,17
+REG0009828;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;53576,94;57572,68;3995,74
+REG0620281;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;46778,71;50537,14;3758,43
+REG0343546;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;60204,24;65358,63;5154,39
+REG0616476;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;47738,91;51813,99;4075,08
+REG0211922;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;124744,12;130851,42;6107,3
+REG0054651;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;74344,17;80960,22;6616,05
+REG0429121;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;80324,18;88663,5;8339,32
+REG0295547;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;65537,97;70375,67;4837,7
+REG0620630;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;50505,15;58370,38;7865,23
+REG0283585;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;55331,03;58994,41;3663,38
+REG0281344;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;62183,67;63754,04;1570,37
+REG0193886;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;55737,49;59128,98;3391,49
+REG0025445;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;24;60;75169,05;80396,26;5227,21
+REG0524341;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;51139,55;56428,21;5288,66
+REG0534516;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;78017,71;84379,85;6362,14
+REG0385609;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;87561,45;115140,57;27579,12
+REG0136575;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;92613,47;95358,44;2744,97
+REG0373077;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;99278,31;100680,88;1402,57
+REG0472599;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;83278,78;87292,97;4014,19
+REG0092483;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;36;60;59382,38;61905,26;2522,88
+REG0299157;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;52108,39;58926,09;6817,7
+REG0274738;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;65993,66;73091,23;7097,57
+REG0473792;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;50036,06;55010,35;4974,29
+REG0209336;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;18;60;90194,64;97387,41;7192,77
+REG0037169;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;30;60;76778,06;79379,72;2601,66
+REG0465012;E06;Vida útil fora da política (60 meses em RAC);vida_util_meses;12;60;76590,86;91679,89;15089,03
+REG0038635;E07;Custo de aquisição digitado x10;custo_aquisicao;67017.97;670179.7;56476,28;659638,01;603161,73
+REG0387691;E07;Custo de aquisição digitado x10;custo_aquisicao;88441.94;884419.4;74132,86;870110,32;795977,46
+REG0352884;E07;Custo de aquisição digitado x10;custo_aquisicao;84903.68;849036.8;69907,55;834040,67;764133,12
+REG0242186;E07;Custo de aquisição digitado x10;custo_aquisicao;60957.4;609574.0;48186,53;596803,13;548616,6
+REG0237215;E07;Custo de aquisição digitado x10;custo_aquisicao;84124.89;841248.9;77683,93;834807,94;757124,01
+REG0386057;E07;Custo de aquisição digitado x10;custo_aquisicao;107302.99;1073029.9;93579,18;1059306,09;965726,91
+REG0128651;E07;Custo de aquisição digitado x10;custo_aquisicao;66619.45;666194.5;64692,98;664268,03;599575,05
+REG0566664;E07;Custo de aquisição digitado x10;custo_aquisicao;164713.62;1647136.2;133886,9;1616309,48;1482422,58
+REG0538420;E07;Custo de aquisição digitado x10;custo_aquisicao;116074.01;1160740.1;110326,28;1154992,37;1044666,09
+REG0305039;E07;Custo de aquisição digitado x10;custo_aquisicao;69181.96;691819.6;67230,02;689867,66;622637,64
+REG0418429;E07;Custo de aquisição digitado x10;custo_aquisicao;104785.45;1047854.5;92288,27;1035357,32;943069,05
+REG0340721;E07;Custo de aquisição digitado x10;custo_aquisicao;187650.57;1876505.7;168432,64;1857287,77;1688855,13
+REG0116420;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;48839,34;48839,34
+REG0151436;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;131756,36;131756,36
+REG0618434;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;54664,91;54664,91
+REG0242590;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;104016,88;104016,88
+REG0456284;E08;Perda total (sinistro) sem baixa;sinistro;PARCIAL_REPARADO;PERDA_TOTAL;0,0;140160,32;140160,32
+REG0620293;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;66253,67;66253,67
+REG0537752;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;50962,25;50962,25
+REG0143774;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;69689,79;69689,79
+REG0112896;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;86123,06;86123,06
+REG0204061;E08;Perda total (sinistro) sem baixa;sinistro;PARCIAL_REPARADO;PERDA_TOTAL;0,0;73430,58;73430,58
+REG0165251;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;47491,88;47491,88
+REG0111160;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;125735,31;125735,31
+REG0529961;E08;Perda total (sinistro) sem baixa;sinistro;PARCIAL_REPARADO;PERDA_TOTAL;0,0;130107,07;130107,07
+REG0408220;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;44183,54;44183,54
+REG0402769;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;179986,66;179986,66
+REG0480645;E08;Perda total (sinistro) sem baixa;sinistro;PARCIAL_REPARADO;PERDA_TOTAL;0,0;85660,54;85660,54
+REG0260927;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;66365,51;66365,51
+REG0516302;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;96048,55;96048,55
+REG0600973;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;127517,4;127517,4
+REG0042224;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;49278,77;49278,77
+REG0601937;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;45060,07;45060,07
+REG0325766;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;81437,88;81437,88
+REG0103745;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;97494,87;97494,87
+REG0484533;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;157681,51;157681,51
+REG0475504;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;57976,89;57976,89
+REG0134358;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;54914,78;54914,78
+REG0295327;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;142738,13;142738,13
+REG0406027;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;96224,7;96224,7
+REG0376549;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;92806,63;92806,63
+REG0560930;E08;Perda total (sinistro) sem baixa;sinistro;NENHUM;PERDA_TOTAL;0,0;99456,74;99456,74
+REG0268807;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNHECZWYFEGF0EX;;78861,51;78861,51;0,0
+REG0378521;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNGMD1MN0MUX28N;9SYNGMD1MN0MUX28;112815,84;112815,84;0,0
+REG0434372;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN7PGG0WA7DCYY6;;97991,31;97991,31;0,0
+REG0625893;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN6J50HHEUK08C6;9SYN6J50HHEUK08C;66246,97;66246,97;0,0
+REG0283376;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN32KP6DSPA1VWT;;68280,38;68280,38;0,0
+REG0539810;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN68B5V3SGH8T5G;9SYN68B5V3SGH8T5;59721,26;59721,26;0,0
+REG0270101;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNWN76FSC114B38;;53416,53;53416,53;0,0
+REG0542566;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNZTFGUPH0ZJGKV;9SYNZTFGUPH0ZJGK;55023,87;55023,87;0,0
+REG0312937;E09;Chassi ausente ou inválido;chassi_sintetico;9SYND0MRLW1HF7SLR;;45311,43;45311,43;0,0
+REG0435538;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNA12NFL5TNMKGE;9SYNA12NFL5TNMKG;66164,6;66164,6;0,0
+REG0386959;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNVZ1N19040XX7C;;57929,13;57929,13;0,0
+REG0389283;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNNLECZBZ1SB5AH;9SYNNLECZBZ1SB5A;171384,0;171384,0;0,0
+REG0541682;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN5WVCP9LVXPZB3;;51572,56;51572,56;0,0
+REG0113750;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNK0HB6XT95JF4A;9SYNK0HB6XT95JF4;83760,85;83760,85;0,0
+REG0480322;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNF4KC2N0A7LETW;;53536,26;53536,26;0,0
+REG0490666;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN13SAGU7R1FVXJ;9SYN13SAGU7R1FVX;54780,85;54780,85;0,0
+REG0497638;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN90SKTTG0TB9FL;;87788,31;87788,31;0,0
+REG0366623;E09;Chassi ausente ou inválido;chassi_sintetico;9SYN2CXPMHG0HWE30;9SYN2CXPMHG0HWE3;83392,6;83392,6;0,0
+REG0324647;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNZ1BB1S6CJ3ADS;;100031,24;100031,24;0,0
+REG0525115;E09;Chassi ausente ou inválido;chassi_sintetico;9SYNWXKZ1914FEYSR;9SYNWXKZ1914FEYS;56474,52;56474,52;0,0

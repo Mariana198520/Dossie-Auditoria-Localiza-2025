@@ -1,0 +1,10 @@
+teste;descricao;qtd;vcl
+T02;Chassi duplicado (registro posterior);40;3775597,95
+T03;Data de aquisição posterior a 31/12/2025;25;2119194,09
+T04;Depreciação acumulada difere do recálculo (> R$ 1,00);72;16775602,4
+T05;Valor residual maior ou igual ao custo;30;2994822,14
+T06;Vida útil fora da faixa divulgada na Nota 12(a);40;3185141,43
+T07;Custo > 3x ou < 1/3 da mediana da categoria;12;11872788,790000001
+T08;Status VENDIDO / data de baixa preenchida;50;4037549,22
+T09;Sinistro com perda total ainda no imobilizado;30;2704064,59
+T10;Chassi ausente ou com tamanho diferente de 17;20;1504484,02

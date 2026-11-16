@@ -1,0 +1,11 @@
+tipo_erro;descricao;teste_esperado;inseridos;detectados_teste_esperado;detectados_algum_teste;na_amostra_mus;efeito_R
+E01;Registro duplicado (mesmo chassi);T02;40;40;40;0;3775597,95
+E02;Aquisição posterior à data-base (corte);T03;25;25;25;1;2119194,09
+E03;Depreciação acumulada calculada a menor;T04;60;60;60;0;358716,76
+E04;"Valor residual maior que o custo; depreciação zerada";T05;30;30;30;0;410380,9
+E05;Veículo vendido sem baixa contábil;T08;50;50;50;0;4037549,22
+E06;Vida útil fora da política (60 meses em RAC);T06;40;40;40;0;233729,95
+E07;Custo de aquisição digitado x10;T07;12;12;12;0;10815965,37
+E08;Perda total (sinistro) sem baixa;T09;30;30;30;0;2704064,59
+E09;Chassi ausente ou inválido;T10;20;20;20;0;0,0
+—;Falsos positivos (exceções sem erro inserido);todos;0;0;0;0;0,0
